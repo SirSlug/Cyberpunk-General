@@ -1,0 +1,43 @@
+IRC:
+>#/g/punk on irc.rizon.net
+
+>#/g/punk TOX groupchat; add [6B5D0E0CF5F4E599F7E6CF3009F AE0643F6F951E582023AAABBF6D7919 2B2F6D5D9C67C4BF57] and message, "invite" 
+
+BBS:
+$ telnet plbbs2.synchro.net
+$ telnet gopher.su 1234
+$ ssh new@gopher.su
+$ telnet dorsal.tk 2323 (IPv4)
+$ telnet dogma.dorsal.tk 2323 (IPv6)
+More; http://synchro.net/sbbslist.html
+
+http://cyberlife.neocities.org/
+
+http://pastebin.com/YVLj1b4n
+
+Contains:
+Circumventing surveillance, in meatspace
+Encrypting your communications on the grid
+EFF fights for your freedom
+Search engines that respect your freedoms
+
+>Build a meshnet, or a darknet. The only truly free networks are the ones that everyone can own a piece of.
+
+Mesh network technology
+Build your own GSM cellphone network
+Things for your smartphone
+BBS
+Public UNIX systems
+Required reading
+Cybermedia
+Et cetera.
+
+Linux For Beginners: http://pastebin.com/HSW58RV4
+
+Cyberpunk Tech: http://pastebin.com/xsTMZRtm
+
+Nackt's Library: http://pastebin.com/qpHhTxfK
+
+Finding out more:
+http://wiki.installgentoo.com/index.php?title=Cyberpunk 
+http://cyberlife.neocities.org/
