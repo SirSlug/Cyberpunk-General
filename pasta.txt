@@ -1,7 +1,8 @@
 IRC:
 >#/g/punk on irc.rizon.net
 
->#/g/punk TOX groupchat; add [6B5D0E0CF5F4E599F7E6CF3009F AE0643F6F951E582023AAABBF6D7919 2B2F6D5D9C67C4BF57] and message, "invite" 
+>#/g/punk TOX groupchat; add the following:
+[code]6B5D0E0CF5F4E599F7E6CF3009F AE0643F6F951E582023AAABBF6D7919 2B2F6D5D9C67C4BF57[/code] and message "invite"
 
 BBS:
 $ telnet plbbs2.synchro.net
